@@ -1,0 +1,2 @@
+Since the SIFT algorithm only available in OpenCV 3.4.2.17 or below. So if you want to run the code, first,  you need to downgrade your python version to 3.6.5 then install OpenCV 3.4.2.17. 
+Another solution to run our code is just simply change the feature_extractor to 'brisk' or 'orb'.
