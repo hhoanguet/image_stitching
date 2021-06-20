@@ -1,2 +1,0 @@
-Since the SIFT algorithm only available in OpenCV 3.4.2.17 or below. If you want use this in feature_extractor methods.
-First, you need to downgrade your python version to 3.6.5 then install OpenCV 3.4.2.17. 
