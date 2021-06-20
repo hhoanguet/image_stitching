@@ -1,0 +1,6 @@
+python==3.6.5
+opencv-python==3.4.2.17
+opencv-contrib-python==3.4.2.17
+matplotlib
+imageio
+imutils
